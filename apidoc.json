@@ -1,0 +1,7 @@
+{
+  "name": "waiting-for-the-bus",
+  "version": "0.1.1",
+  "description": "GTFS APIs documentation",
+  "title": "GTFS APIs",
+  "url" : "https://waiting-for-the-bus.herokuapp.com/api"
+}
