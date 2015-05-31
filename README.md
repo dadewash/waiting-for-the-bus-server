@@ -1,6 +1,6 @@
 #  WAITING FOR THE BUS
 
-`waiting-for-the-bus-server` loads transit data in [GTFS](https://developers.google.com/transit) format from [OPENdata Trentino GTFS](http://dati.trentino.it/dataset/trasporti-pubblici-del-trentino-formato-gtfs), unzips it and stores it to a MongoDB database and provides some methods to query for agencies, routes, stops and times. It also has spatial queries to find nearby stops, routes and agencies.
+`waiting-for-the-bus-server`  provides some methods to query for agencies, routes, stops and times. It also has spatial queries to find nearby stops, routes and agencies.
 
 There is a [companion](https://apps.getpebble.com/en_US/application/55670cbc1034b064db000005) app developed for Pebble Smartwatch that uses the APIs provided by this server. You can find this project [here](https://github.com/dadewash/waiting-for-the-bus-pebble).
 
