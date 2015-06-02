@@ -16,4 +16,4 @@ There is a [companion](https://apps.getpebble.com/en_US/application/55670cbc1034
 
 ##Initializing the database
 
-Before you can use waiting-for-the-bus you must specify agency. You must upload the GTFS data onto the db. In order to do this see: [gtfs_updater](https://github.com/dadewash/gtfs-updater) that is an application that upload and upgrade automatically the GTFS for this server.
+Before you can use waiting-for-the-bus you must specify agency. You must upload the GTFS data onto the db. In order to do this see: [gtfs_updater](https://github.com/dadewash/gtfs-updater).
